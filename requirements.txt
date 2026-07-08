@@ -1,0 +1,7 @@
+requests
+numpy
+pandas
+scikit-learn
+python-binance
+python-dotenv
+ta
